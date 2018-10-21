@@ -1,5 +1,5 @@
-const width = 800;
-const height = 600;
+const width = 600;
+const height = 400;
 
 const svg = d3.select('svg')
     .attr('width', width)
